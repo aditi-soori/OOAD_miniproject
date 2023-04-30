@@ -27,5 +27,20 @@ The music player will be designed to work on Windows, Mac, and Linux operating s
 
 The Java Music Player is a project that will provide an easy-to-use and efficient way of playing and managing music files on a computer. The project will help to improve the user experience by providing a feature-rich application with a simple interface.
 
+Use Case Diagram
+![image](https://user-images.githubusercontent.com/73054615/235372327-e01ffe44-03c6-4adb-9977-f3309ce789ef.png)
+
+class diagram
+![image](https://user-images.githubusercontent.com/73054615/235372367-8688719a-ee12-41a5-9a71-1d1b86c5fe7b.png)
+
+Activity Diagram
+![WhatsApp Image 2023-03-19 at 16 15 06](https://user-images.githubusercontent.com/73054615/235372557-0c1d4656-9533-4779-ab17-39436f0c88c8.jpg)
+
+State Diagram.
+
+Design principles and Design pattern used
+
+
+
 
 
